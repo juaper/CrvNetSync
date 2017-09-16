@@ -1,0 +1,16 @@
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/bin/Debug/CrvNetSync.exe
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/bin/Debug/CrvNetSync.pdb
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/bin/Debug/Npgsql.dll
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/bin/Debug/System.Threading.Tasks.Extensions.dll
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/bin/Debug/System.Threading.Tasks.Extensions.xml
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/bin/Debug/Npgsql.xml
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/obj/x86/Debug/CrvNetSync.csprojResolveAssemblyReference.cache
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/obj/x86/Debug/CrvNetSync.csproj.CoreCompileInputs.cache
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/obj/x86/Debug/CrvNetSync.exe
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/obj/x86/Debug/CrvNetSync.pdb
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/bin/Debug/CrvNetSync.exe.config
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/bin/Debug/Bukimedia.PrestaSharp.dll
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/bin/Debug/Dapper.dll
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/bin/Debug/RestSharp.dll
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/bin/Debug/RestSharp.xml
+/Users/xuanxoo/Projects/CrvNetSync/CrvNetSync/bin/Debug/Dapper.xml
